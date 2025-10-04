@@ -128,7 +128,7 @@ export default function Layout() {
           <Link className="hover:text-foreground" to="/contact">Contact Us</Link>
           <div className="ml-auto text-right">
             <div>© {new Date().getFullYear()} Talent Flow</div>
-            <div className="text-xs text-muted-foreground">Created by Talent Flow Team</div>
+            <div className="text-xs text-muted-foreground">Created by Digvijay Singh</div>
           </div>
         </div>
       </footer>
